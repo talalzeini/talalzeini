@@ -6,5 +6,6 @@
 - 🤙 Portfolio:       https://talalzeini.com
 - 🌲 Link Tree:       https://tzeini.web.app
 - 🐍 Python Projects: https://talalzeini.com/python
-- 📫 How to reach me: https://www.linkedin.com/in/talalzeini
 - 📄 Resume:          https://talalzeini.com/html/resume.docx
+- 📫 How to reach me: https://www.linkedin.com/in/talalzeini
+
