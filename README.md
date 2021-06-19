@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on many projects
-- 🌱 I’m currently learning Web Development
+- 🌱 I’m currently learning Web Development & Artificial Intelligence
 
 - 🤙 Portfolio:       https://talalzeini.com
 - 🌲 Link Tree:       https://tzeini.web.app
