@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-- 🔭  I’m currently working on many projects
-- 🌱  I’m currently learning Web Development
-
+- 🔭  I’m currently working on my problem solving skills
 - 🤙  Portfolio:       https://talalzeini.com
 - 🌲  Links Tree:       https://telzeini.web.app
 - 🐍  Python Projects: https://talalzeini.com/python
